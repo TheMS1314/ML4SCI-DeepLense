@@ -146,6 +146,11 @@ matplotlib
 seaborn
 ```
 
+## Pre-trained Weights
+Checkpoints (~43MB each) are available on Google Drive:  
+[Download checkpoints](https://drive.google.com/drive/folders/17jFzaEjwQIrsfvKJXWVq67OxrA2cO1Zu?usp=sharing)  
+Place all `.pth` files in the `checkpoints/` folder before running inference.
+
 ## How to Run
 ```bash
 # Install dependencies
